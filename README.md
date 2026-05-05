@@ -47,7 +47,8 @@ stroke.Color = Color3.fromRGB(0, 170, 255)
 
 local title = Instance.new("TextLabel", frame)
 title.Size = UDim2.new(0.75, 0, 0, 30)
-title.Text = "✈ YEW FLY"
+title.Text = "✈ YEW FLY
+"
 title.TextColor3 = Color3.fromRGB(0, 210, 255)
 title.BackgroundTransparency = 1
 title.TextScaled = true
